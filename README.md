@@ -3,7 +3,7 @@ Reading Heart Rate (bpm), Systolic/Diastolic Blood Pressure (mmHg) and SpO2 Bloo
 
 Live plot of real-time HR readings using gnuplot.
 
-Tested on a laptop running Ubuntu 18.04.2 LTS and a Rapberry Pi 3 B+ running Raspbian.
+Tested on a laptop running **Ubuntu 18.04.2 LTS** and a **Rapberry Pi 3 B+** running Raspbian.
 
 ## Requirements
 
