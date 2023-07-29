@@ -1,0 +1,11 @@
+{
+    "notifications": [
+        {"handle": "0x0040", "value": "01"},
+        {"handle": "0x0038", "value": "0100"}
+    ],
+    "metrics": [
+        {"write_handle": "0x0035", "write_value": "feea100869000000", "read_handle": "0x0037", "label": "Systolic/Diastolic Blood Pressure", "unit": "mmHg"},
+        {"write_handle": "0x0035", "write_value": "feea10066b00", "read_handle": "0x0037", "label": "Blood Oxygen", "unit": "%"},
+        {"write_handle": "0x0035", "write_value": "feea10066d00", "read_handle": "0x003f", "label": "Heart Rate", "unit": "bpm"}
+    ]
+}
