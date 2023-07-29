@@ -1,0 +1,6 @@
+{
+    "metrics": [
+        {"write_handle": "0x0025", "write_value": "f1031401", "read_handle": "0x001f", "label": "Systolic/Diastolic Blood Pressure", "unit": "mmHg", "value_start": 6, "value_end": 8},
+        {"write_handle": "0x0025", "write_value": "0a01", "read_handle": "0x001f", "label": "Heart Rate", "unit": "bpm", "value_start": 30, "value_end": 32}
+    ]
+}
